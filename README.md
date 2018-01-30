@@ -1,9 +1,3 @@
-<style>
-table{
-    width: 100%;
-}
-</style>
-
 |  #  |                                                         Title                                                         |                                                   Solution                                                    | Difficulty |
 | :-: | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------: |
 |  1  |                             [Two Sum](https://leetcode.com/problems/two-sum/description/)                             |             [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0001_Two_Sum.js)             |    easy    |

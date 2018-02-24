@@ -25,11 +25,11 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0202_HappyNumber.js) | easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0205_IsomorphicStrings.js) | easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0226_InvertBinaryTree.js) | easy |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0292_NimGame.js) | easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0258_AddDigits.js) | easy |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0263_UglyNumber.js) | easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0268_MissingNumber.js) | easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0283_MoveZeroes.js) | easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0292_NimGame.js) | easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0344_ReverseString.js) | easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0367_ValidPerfectSquare.js) | easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0412_FizzBuzz.js) | easy |

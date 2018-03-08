@@ -44,4 +44,5 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0617_MergeTwoBinaryTrees.js) | easy |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0633_SumOfSquareNumbers.js) | easy |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0657_JudgeRouteCircle.js) | easy |
+| 657 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0669_TrimBinarySearchTree.js) | easy |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [javascript](https://github.com/pavelShen/myLeetcode/blob/master/src/0728_SelfDividingNumbers.js) | easy |
